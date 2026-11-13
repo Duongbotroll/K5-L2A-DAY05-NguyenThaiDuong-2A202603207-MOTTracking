@@ -6,11 +6,11 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
-- Link repository:
+- Họ tên: Nguyễn Thái Dương
+- MSSV: 2A202603207
+- Mã đề (A/B/C): B (task `DAY05-MOT17-09-B-2A202603207`)
+- Email: 26ai.duongnt7@vinuni.edu.vn
+- Link repository: https://github.com/Duongbotroll/K5-L2A-DAY05-NguyenThaiDuong-2A202603207-MOTTracking
 - Giờ bắt đầu:
 - Giờ kết thúc:
 
@@ -20,11 +20,11 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | | | | | |
-| P2 | | | | | |
-| P3 | | | | | |
-| P4 | | | | | |
-| P5 | | | | | |
+| P1 |0 | | | | |
+| P2 |0 | | | | |
+| P3 |40 | | | | |
+| P4 |0 | | | | |
+| P5 |0 | | | | |
 
 ## 2. Keyframe và thời gian (CP1, CP4)
 
