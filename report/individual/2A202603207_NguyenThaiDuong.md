@@ -102,9 +102,9 @@ Lỗi nào chỉ lượt 2 (theo cảnh) mới thấy, lượt 1 (theo người)
 
 Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
-```text
-...
-```
+=== Tóm tắt ===
+  Lỗi: 0   |   Cảnh báo: 0
+  Đạt.
 
 ## 6. Ba câu kết
 
